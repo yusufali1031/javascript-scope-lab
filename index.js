@@ -1,4 +1,4 @@
-const burgers = ['Hamburger', 'Cheeseburger'];
+const burgers = ['Hamburger','Cheeseburger'];
 let featuredDrink = 'Strawberry Milkshake';
 
 function addBurger() {
